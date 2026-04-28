@@ -1,4 +1,7 @@
-
+#### Nama   = DZAKI ARIF RAHMAN  
+#### Kelas  = I241D
+#### NIM    = 312410312  
+#### Matkul  = Pemograman Web 2
 
 # Implementasi Autentikasi dan Manajemen Konten Dinamis pada CodeIgniter 4
 
