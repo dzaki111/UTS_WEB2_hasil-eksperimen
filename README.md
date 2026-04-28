@@ -69,10 +69,14 @@ Guna memastikan privasi data, sistem dilengkapi dengan Filter Auth . Namun, peny
 Melalui pemeriksaan yang ditentukan yang diselaraskan dengan kebutuhan sistem operasional, diperoleh hasil sebagai berikut:
 
 1.  **Validasi Login** : Sistem berhasil melakukan otorisasi penuh saat kredensial yang tepat dimasukkan (Username: admin, Password: admin123).
+   <img width="1919" height="950" alt="Screenshot 2026-04-28 142231" src="https://github.com/user-attachments/assets/cab345e8-a8bb-4186-9077-8aa7d7476ac0" />
+
    <img width="1919" height="881" alt="Screenshot 2026-04-28 142243" src="https://github.com/user-attachments/assets/2e5b6a57-c73b-4993-b183-a7c2a4fe34f3" />
 
 2.  **Uji Coba SQL Injection** : Saat mencoba memasukkan kode ' OR '1'='1 pada kolom username, sistem tetap menolak akses dan memberikan pesan error "Username atau Password salah". Ini membuktikan bahwa input berbahaya telah berhasil "dijinakkan".
-   <img width="1919" height="955" alt="Screenshot 2026-04-28 135333" src="https://github.com/user-attachments/assets/6532f815-dfd3-4704-a6b7-610f1dc9c459" />
+<img width="1918" height="946" alt="Screenshot 2026-04-28 135319" src="https://github.com/user-attachments/assets/998810f0-92d1-4ae3-af92-5db7a79a1ec4" />
+
+ <img width="1919" height="955" alt="Screenshot 2026-04-28 135333" src="https://github.com/user-attachments/assets/6532f815-dfd3-4704-a6b7-610f1dc9c459" />
 3.  **Efisiensi Visual** : Dashboard admin kini lebih informatif dengan kategori tampilan yang kontekstual, mempermudah admin dalam mengelola data.
 
 ## 5. Kesimpulan
